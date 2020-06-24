@@ -1,0 +1,56 @@
+{
+  "_from": "npm-matematicas",
+  "_id": "npm-matematicas@1.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-YgqZ3f0f51JJ/I2xWrbKpzf70ot+gm3LG+KSEYV3Lk7fIEX7MBZX1zw5+BSk/mXZm6++C9snMhuLMyip8zlfSA==",
+  "_location": "/npm-matematicas",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "npm-matematicas",
+    "name": "npm-matematicas",
+    "escapedName": "npm-matematicas",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/npm-matematicas/-/npm-matematicas-1.0.1.tgz",
+  "_shasum": "cc8aacdd7965dfa3f4b0ee656a43aea975090131",
+  "_spec": "npm-matematicas",
+  "_where": "C:\\Users\\user\\Desktop\\practicas node js",
+  "author": {
+    "name": "Israel Bejarano Alvarez",
+    "email": "israel.bejarano.a@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/israelbejarano/npm-matematicas/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "proyecto de matematicas sencillo para aprender a subir a npm",
+  "homepage": "https://github.com/israelbejarano/npm-matematicas#readme",
+  "keywords": [
+    "math",
+    "matematica",
+    "suma",
+    "resta",
+    "multi",
+    "division"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "npm-matematicas",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/israelbejarano/npm-matematicas.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
